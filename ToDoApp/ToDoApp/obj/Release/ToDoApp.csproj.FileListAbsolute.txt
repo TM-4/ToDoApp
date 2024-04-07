@@ -1,0 +1,10 @@
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe.config
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\bin\Release\ToDoApp.pdb
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.Form1.resources
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.Properties.Resources.resources
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.exe
+C:\Users\cotoc\Desktop\ToDoApp\ToDoApp\obj\Release\ToDoApp.pdb
